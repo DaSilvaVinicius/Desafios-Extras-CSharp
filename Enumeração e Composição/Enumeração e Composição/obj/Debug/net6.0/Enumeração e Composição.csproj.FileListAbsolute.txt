@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Enumeração e Composição\Enumeração e Composição\bin\Debug\net6.0\Enumeração e Composição.exe
+C:\Users\USER\source\repos\Enumeração e Composição\Enumeração e Composição\bin\Debug\net6.0\Enumeração e Composição.deps.json
+C:\Users\USER\source\repos\Enumeração e Composição\Enumeração e Composição\bin\Debug\net6.0\Enumeração e Composição.runtimeconfig.json
+C:\Users\USER\source\repos\Enumeração e Composição\Enumeração e Composição\bin\Debug\net6.0\Enumeração e Composição.dll
+C:\Users\USER\source\repos\Enumeração e Composição\Enumeração e Composição\bin\Debug\net6.0\ref\Enumeração e Composição.dll
+C:\Users\USER\source\repos\Enumeração e Composição\Enumeração e Composição\bin\Debug\net6.0\Enumeração e Composição.pdb
+C:\Users\USER\source\repos\Enumeração e Composição\Enumeração e Composição\obj\Debug\net6.0\Enumeração e Composição.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Enumeração e Composição\Enumeração e Composição\obj\Debug\net6.0\Enumeração e Composição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Enumeração e Composição\Enumeração e Composição\obj\Debug\net6.0\Enumeração e Composição.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Enumeração e Composição\Enumeração e Composição\obj\Debug\net6.0\Enumeração e Composição.AssemblyInfo.cs
+C:\Users\USER\source\repos\Enumeração e Composição\Enumeração e Composição\obj\Debug\net6.0\Enumeração e Composição.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Enumeração e Composição\Enumeração e Composição\obj\Debug\net6.0\Enumeração e Composição.dll
+C:\Users\USER\source\repos\Enumeração e Composição\Enumeração e Composição\obj\Debug\net6.0\ref\Enumeração e Composição.dll
+C:\Users\USER\source\repos\Enumeração e Composição\Enumeração e Composição\obj\Debug\net6.0\Enumeração e Composição.pdb
+C:\Users\USER\source\repos\Enumeração e Composição\Enumeração e Composição\obj\Debug\net6.0\Enumeração e Composição.genruntimeconfig.cache
